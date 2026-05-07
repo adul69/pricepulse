@@ -3,7 +3,10 @@
 AI-powered electronics price comparison across global stores.
 
 ## 🚀 Live Demo
-Coming soon...
+https://pricepulse.vercel.app
+
+## 📂 GitHub
+https://github.com/adul69/pricepulse
 
 ## ✨ Features
 - Compare prices across Amazon, eBay, Best Buy, Newegg
